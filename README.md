@@ -5,3 +5,5 @@
 - 💬 Ask me about PHP, MySQL (especially [ezSQL](https://github.com/ezSQL/ezsql)), HTML5, CSS (3, Grid, and Flexbox), Javascript (including ES6+)
 - 📫 How to reach me: PO Box 12464, Chartwell Square, Hamilton, Waikato, New Zealand 3248
 - ⚡ Fun fact: I am a twin!
+
+[![Visits Badge](https://badges.pufler.dev/visits/dpdesignz/dpdesignz)](https://badges.pufler.dev)
