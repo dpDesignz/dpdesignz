@@ -6,4 +6,4 @@
 - 📫 How to reach me: PO Box 12464, Chartwell Square, Hamilton, Waikato, New Zealand 3248
 - ⚡ Fun fact: I am a twin!
 
-[![Visits Badge](https://badges.pufler.dev/visits/dpdesignz/dpdesignz)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/dpdesignz/dpdesignz)](https://github.com/dpDesignz)
