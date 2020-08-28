@@ -29,6 +29,7 @@ Mission Equine is a bespoke eCommerce site built using my platform [Cornerstone]
 ## 🌱 I’m currently learning
 - [TypeScript](https://github.com/dpDesignz/Learning-Typescript) (follow along with my progress [here on GitHub](https://github.com/dpDesignz/Learning-Typescript))
 - [Vue JS](https://github.com/dpDesignz/Learning-Vue-JS) (follow along with my progress [here on GitHub](https://github.com/dpDesignz/Learning-Vue-JS))
+- [JavaScript Basics](https://github.com/dpDesignz/Learning-JavaScript30) (follow along with my progress [here on GitHub](https://github.com/dpDesignz/Learning-JavaScript30))
 
 ## 📫 How to Reach Me
 
