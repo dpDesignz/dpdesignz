@@ -13,14 +13,18 @@ Mission Equine is a bespoke eCommerce site built using my platform [Cornerstone]
 <a href="https://github.com/dpDesignz/cornerstone"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpDesignz&repo=cornerstone&count_private=true&show_icons=true" width=350> </a>
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=da1b1e)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=da1b1e)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=da1b1e)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=da1b1e)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=da1b1e)
-![](https://img.shields.io/badge/Code-CSS_3/Grid/Flexbox-informational?style=flat&logo=css3&logoColor=white&color=da1b1e)
-![](https://img.shields.io/badge/Code-JavaScript_(ES6+)-informational?style=flat&logo=javascript&logoColor=white&color=da1b1e)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=da1b1e)
+<!-- da1b1e -->
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078d6)
+
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
+
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479a1)
+
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777bb4)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=e34f26)
+![](https://img.shields.io/badge/Code-CSS_3/Grid/Flexbox-informational?style=flat&logo=css3&logoColor=white&color=1572b6)
+![](https://img.shields.io/badge/Code-JavaScript_(ES6+)-informational?style=flat&logo=javascript&logoColor=white&color=f7df1e)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc)
 
 ## 🌱 I’m currently learning
 - [TypeScript](https://github.com/dpDesignz/Learning-Typescript) (follow along with my progress [here on GitHub](https://github.com/dpDesignz/Learning-Typescript))
