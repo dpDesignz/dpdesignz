@@ -15,6 +15,7 @@ Mission Equine is a bespoke eCommerce site built using my platform [Cornerstone]
 ## 🔧 Technologies & Tools
 <!-- da1b1e -->
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078d6)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=0078d6)
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
 
