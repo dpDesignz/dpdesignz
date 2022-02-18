@@ -7,8 +7,8 @@ From Hamilton, New Zealand.
 Studied web development at [Vision College](https://visioncollege.ac.nz/study/information-technology/), Hamilton, New Zealand
 
 ## 🚀 I’m currently working on
-### [Mission Equine](https://www.missionequine.nz) 
-Mission Equine is a bespoke eCommerce site built using my platform [Cornerstone](https://github.com/dpDesignz/cornerstone) in OOP PHP
+### [Word of Life NZ LCM Tracker](http://lcm.wol.nz/tracker/) 
+The LCM Tracker is a bespoke CRM site built using my platform [Cornerstone](https://github.com/dpDesignz/cornerstone) in OOP PHP
 
 <a href="https://github.com/dpDesignz/cornerstone"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpDesignz&repo=cornerstone&count_private=true&show_icons=true" width=350> </a>
 
