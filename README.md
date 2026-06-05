@@ -7,10 +7,17 @@ From Hamilton, New Zealand.
 Studied web development at [Vision College](https://visioncollege.ac.nz/study/information-technology/), Hamilton, New Zealand
 
 ## 🚀 I’m currently working on
-### [Word of Life NZ LCM Tracker](http://lcm.wol.nz/tracker/) 
-The LCM Tracker is a bespoke CRM site built using my platform [Cornerstone](https://github.com/dpDesignz/cornerstone) in OOP PHP
+### [Linkup Hamilton](https://www.linkup.co.nz/) 
+The main Linkup website is a bespoke site built using my platform [Cornerstone](https://github.com/dpDesignz/cornerstone) in OOP PHP.
 
-<a href="https://github.com/dpDesignz/cornerstone"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpDesignz&repo=cornerstone&count_private=true&show_icons=true" width=350> </a>
+### [Accredo](https://github.com/dpDesignz/accredo)
+I'm actively working on [custom scripting, forms, and reports](https://github.com/dpDesignz/accredo) for use with [Accredo](https://accredo.co.nz/), mostly using MaxBasic.
+
+### [Word of Life NZ LCM Tracker](https://www.lcmapac.org/) 
+The LCM Tracker is a bespoke CRM site built using my platform [Cornerstone](https://github.com/dpDesignz/cornerstone) in OOP PHP.
+
+### [AVGear Matrix Companion Module](https://github.com/bitfocus/companion-module-avgear-matrix)
+A [Bitfocus Companion module](https://github.com/bitfocus/companion-module-avgear-matrix) for use with the AVGear TMX88PRO AV HDMI Matrix.
 
 ## 🔧 Technologies & Tools
 <!-- da1b1e -->
@@ -46,6 +53,6 @@ The LCM Tracker is a bespoke CRM site built using my platform [Cornerstone](http
 
 ## 📈 My Stats
 
-[![Damien's github stats](https://github-readme-stats.vercel.app/api?username=dpDesignz&show_icons=true&theme=calm)](https://github.com/dpDesignz)
+[![Damien's github stats](https://awesome-github-stats.azurewebsites.net/user-stats/dpdesignz?cardType=level&theme=calm&fontFamily=&preferLogin=false)](https://github.com/dpDesignz)
 
 [![Visits Badge](https://badges.pufler.dev/visits/dpdesignz/dpdesignz)](https://github.com/dpDesignz)
