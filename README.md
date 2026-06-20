@@ -35,9 +35,9 @@ A [Bitfocus Companion module](https://github.com/bitfocus/companion-module-avgea
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc)
 
 ## 🌱 I’m currently learning
-- [TypeScript](https://github.com/dpDesignz/Learning-Typescript) (follow along with my progress [here on GitHub](https://github.com/dpDesignz/Learning-Typescript))
-- [Vue JS](https://github.com/dpDesignz/Learning-Vue-JS) (follow along with my progress [here on GitHub](https://github.com/dpDesignz/Learning-Vue-JS))
-- [JavaScript Basics](https://github.com/dpDesignz/Learning-JavaScript30) (follow along with my progress [here on GitHub](https://github.com/dpDesignz/Learning-JavaScript30))
+- [TypeScript](https://github.com/dpDesignz/Learning-Typescript)
+- [Vue JS](https://github.com/dpDesignz/Learning-Vue-JS)
+- [JavaScript Basics](https://github.com/dpDesignz/Learning-JavaScript30)
 
 ## 📫 How to Reach Me
 
