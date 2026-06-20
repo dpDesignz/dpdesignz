@@ -42,8 +42,8 @@ A [Bitfocus Companion module](https://github.com/bitfocus/companion-module-avgea
 ## 📫 How to Reach Me
 
 1. [LinkedIn](https://www.linkedin.com/in/damienpeden/) (recommended)
-2. [Email](mailto:admin@dpdesignz.co.nz) (please don't spam me)
-3. [Twitter](https://twitter.com/dpDesignz) (I don't check this too often)
+2. [Email](mailto:webmaster@dpdesignz.co.nz) (please don't spam me)
+3. [X](https://x.com/dpDesignz) (I don't check this too often)
 4. PO Box 12464, Chartwell Square, Hamilton, Waikato, New Zealand 3248 (the old school way)
 
 ## ⚡ Fun facts
